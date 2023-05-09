@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gagan Abbot</h1>
-<h3 align="center">A software developer from India</h3>
+<h3 align="center">A Data Engineer from India</h3>
 
 - 📫 How to reach me **abbotgagan.04@gmail.com**
 
