@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gagan Abbot</h1>
-<h3 align="center">🌟 Data Engineer | Building Scalable Data Pipelines & Optimized Solutions | Big Data | Spark | Snowflake | AWS | Airflow | Python | Cloud Architectures | ETL</h3>
+<h3 align="center">🌟 Data Engineer | Building Scalable Data Pipelines & Optimized Solutions | Big Data | Spark | Snowflake | AWS | Airflow | Python </h3>
 
 - 🔭 I’m currently working on **Data Pipeline Optimization for On Prem**
 
