@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **Apache Spark, Snowflake, AWS, Airflow, Python, Data Engineering Best Practices**
 
-- 📫 How to reach me **abbotgagan.04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
